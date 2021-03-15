@@ -3,19 +3,15 @@
   width: 50%;
   top: 22%;
   left: 25%;
-  position:absolute;
+  position: fixed;
 }
 
 .header {
-  text-align:center;
-}   
+  text-align: center;
+}
 
 .goat {
-  width:25%;
-  float:left;
+  width: 25%;
+  float: left;
   padding: 3px;
-} 
-
-.message {
-
-}  
+}
